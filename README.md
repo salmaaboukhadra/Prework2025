@@ -6,6 +6,14 @@ Background Color Change is an app that changes the color of the background when 
 
 Time spent: 3 hours spent in total
 
+<div>
+    <a href="https://www.loom.com/share/daddaccbab4d42a5a145fe728c936c8f">
+    </a>
+    <a href="https://www.loom.com/share/daddaccbab4d42a5a145fe728c936c8f">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/daddaccbab4d42a5a145fe728c936c8f-853af0fd7cc44d61-full-play.gif">
+    </a>
+  </div>
+
 ## Required Features
 
 The following **required** functionality is completed:
